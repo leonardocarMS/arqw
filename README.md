@@ -6,8 +6,7 @@ Este repositório foi criado com o intuito de centralizar e compartilhar recurso
 
 https://drive.google.com/drive/folders/1nHk0uxolPP2fd2DtEMszjG044MnjJ68x?usp=sharing
 https://drive.google.com/drive/folders/1nHk0uxolPP2fd2DtEMszjG044MnjJ68x?usp=sharing
-https://drive.google.com/drive/folders/1nHk0uxolPP2fd2DtEMszjG044MnjJ68x?usp=sharing
-https://drive.google.com/drive/folders/1nHk0uxolPP2fd2DtEMszjG044MnjJ68x?usp=sharing
+
 
 ## Atividades Desenvolvidas
 
